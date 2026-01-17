@@ -36,7 +36,7 @@ namespace ControlPorcino
 
         private void btnVolverPeso_Click(object sender, EventArgs e)
         {
-            MenuFun1 f = new MenuFun1();
+            Form1 f = new Form1();
             f.Show();
             this.Close();
         }
