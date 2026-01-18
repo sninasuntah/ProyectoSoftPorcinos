@@ -24,5 +24,10 @@ namespace WindowsFormsApp1
             f.Show();
             this.Hide();
         }
+
+        private void btnIrProduccion_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
