@@ -201,6 +201,18 @@
     <Compile Include="Form5.Designer.cs">
       <DependentUpon>Form5.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmComerr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmComerr.Designer.cs">
+      <DependentUpon>FrmComerr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProdu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProdu.Designer.cs">
+      <DependentUpon>FrmProdu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -217,6 +229,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form5.resx">
       <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmComerr.resx">
+      <DependentUpon>FrmComerr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProdu.resx">
+      <DependentUpon>FrmProdu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -313,6 +331,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Pantalla Principal %28Ninasunta%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Data.SqlClient.SNI.6.0.2\build\net462\Microsoft.Data.SqlClient.SNI.targets" Condition="Exists('..\packages\Microsoft.Data.SqlClient.SNI.6.0.2\build\net462\Microsoft.Data.SqlClient.SNI.targets')" />
