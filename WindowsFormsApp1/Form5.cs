@@ -25,9 +25,11 @@ namespace WindowsFormsApp1
             this.Hide();
         }
 
-        private void btnIrProduccion_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            
+            FrmProdu ventanaProduccion = new FrmProdu();
+            ventanaProduccion.Show();
+            this.Hide();
         }
     }
 }
