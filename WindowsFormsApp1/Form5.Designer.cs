@@ -48,7 +48,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Pantalla_Principal__Ninasunta_;
-            this.pictureBox1.Location = new System.Drawing.Point(0, -1);
+            this.pictureBox1.Location = new System.Drawing.Point(-1, -11);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(921, 488);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -65,6 +65,17 @@
             this.button1.Text = "->";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btnIrProduccion
+            // 
+            this.btnIrProduccion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.btnIrProduccion.Location = new System.Drawing.Point(290, 321);
+            this.btnIrProduccion.Name = "btnIrProduccion";
+            this.btnIrProduccion.Size = new System.Drawing.Size(49, 49);
+            this.btnIrProduccion.TabIndex = 1;
+            this.btnIrProduccion.Text = "->";
+            this.btnIrProduccion.UseVisualStyleBackColor = false;
+            this.btnIrProduccion.Click += new System.EventHandler(this.btnIrProduccion_Click);
             // 
             // Form5
             // 
