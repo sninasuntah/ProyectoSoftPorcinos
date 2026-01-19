@@ -207,23 +207,11 @@
     <Compile Include="FrmCom.Designer.cs">
       <DependentUpon>FrmCom.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmComerr.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmComerr.Designer.cs">
-      <DependentUpon>FrmComerr.cs</DependentUpon>
-    </Compile>
     <Compile Include="FrmProd.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmProd.Designer.cs">
       <DependentUpon>FrmProd.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmProdu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmProdu.Designer.cs">
-      <DependentUpon>FrmProdu.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -245,14 +233,8 @@
     <EmbeddedResource Include="FrmCom.resx">
       <DependentUpon>FrmCom.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmComerr.resx">
-      <DependentUpon>FrmComerr.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FrmProd.resx">
       <DependentUpon>FrmProd.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmProdu.resx">
-      <DependentUpon>FrmProdu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
