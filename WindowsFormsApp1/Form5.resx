@@ -121,11 +121,8 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAABQAAAALQCAIAAABAH0oBAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-<<<<<<< HEAD
         vgAADr4B6kKxwAAA/7JJREFUeF7svQeX3MaVsP39yNf22rt+g3fXSSQVOXmYc5jAnKlASZQl2ZZlW8HK
-=======
         wAAADsABataJCQAA/7JJREFUeF7svQeX3MaVsP39yNf22rt+g3fXSSQVOXmYc5jAnKlASZQl2ZZlW8HK
->>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
         ViA53Y3cuXtmmMlJnXMPv3NDFQpAT3Oaaw+12j7nnjlAoVAoFAo99eCm/+9R7a2+9KUvfelLX/ryQ5Xo
         wkeDoQzIDP4NZ4bCmcFQejCUdXeFDIRABsPpgXCatreKwoFQlo/yrkcGw9mBMFcQJZkBuJDYJXFb87Sz
         Ff7Ki3I7WNhFsBp0VZakhYgKfEiWZAZmqH5aXIUOiZsNpaEC1cRqW2dSW2fUarJCGro3kxmYSblH8XJ4
@@ -15074,6 +15071,6 @@
         bnfpYLB8OFI5Eq4aCVfZo9Uj4ZrhcPVguAo8HMYv9lCoEkGZwP1BADAPbvYHEDA/06AnevwG0PcI/yZQ
         8orSgDl8+j74n9kUXQ4RGNCrIzsSd93jEVudd9wwNmcem68PTxh7PFg3NGn6/wC/Gp8dAit+AwAAAABJ
         RU5ErkJggg==
-</value>
+    </value>
   </data>
 </root>
