@@ -201,18 +201,6 @@
     <Compile Include="Form5.Designer.cs">
       <DependentUpon>Form5.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmCom.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmCom.Designer.cs">
-      <DependentUpon>FrmCom.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrmProd.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmProd.Designer.cs">
-      <DependentUpon>FrmProd.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -229,12 +217,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form5.resx">
       <DependentUpon>Form5.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmCom.resx">
-      <DependentUpon>FrmCom.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmProd.resx">
-      <DependentUpon>FrmProd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
