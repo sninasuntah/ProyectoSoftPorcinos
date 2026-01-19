@@ -27,8 +27,13 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             FrmProdu ventanaProduccion = new FrmProdu();
             ventanaProduccion.Show();
+=======
+            FrmProdu ventana = new FrmProdu();
+            ventana.Show();
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.Hide();
         }
     }

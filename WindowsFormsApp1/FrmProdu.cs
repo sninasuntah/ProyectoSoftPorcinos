@@ -34,7 +34,10 @@ namespace WindowsFormsApp1
             lblPesoFalta.Text = "";
             lblDatoCurioso.Text = "🧠 Dato curioso del cerdo";
         }
+<<<<<<< HEAD
 
+=======
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
         private void ProcesarCerdos(int edadActual, double pesoActual, int edadMin, double pesoMin, string titulo, string concepto)
         {
             if (edadActual >= edadMin && pesoActual >= pesoMin)
@@ -105,6 +108,7 @@ namespace WindowsFormsApp1
             lblDatoCurioso.Text = datosCuriosos[r.Next(datosCuriosos.Length)];
         }
 
+<<<<<<< HEAD
         private void button2_Click_1(object sender, EventArgs e)
         {
             FrmComerr ventanaNueva = new FrmComerr();
@@ -116,6 +120,19 @@ namespace WindowsFormsApp1
         {
             Form5 ventanaNueva = new Form5();
             ventanaNueva.Show();
+=======
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            Form5 f5 = new Form5();
+            f5.Show();
+            this.Hide();
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            FrmComerr f2 = new FrmComerr();
+            f2.Show();
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.Hide();
         }
     }

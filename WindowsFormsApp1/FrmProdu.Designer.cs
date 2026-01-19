@@ -37,11 +37,19 @@
             this.lblTipo = new System.Windows.Forms.Label();
             this.comTipo = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.lblPesoFalta = new System.Windows.Forms.Label();
             this.lblResultado = new System.Windows.Forms.Label();
             this.lblDatoCurioso = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+=======
+            this.button3 = new System.Windows.Forms.Button();
+            this.lblDatoCurioso = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.lblPesoFalta = new System.Windows.Forms.Label();
+            this.lblResultado = new System.Windows.Forms.Label();
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -60,7 +68,11 @@
             this.lblEdad.AutoSize = true;
             this.lblEdad.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.lblEdad.Font = new System.Drawing.Font("Stencil", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.lblEdad.Location = new System.Drawing.Point(12, 88);
+=======
+            this.lblEdad.Location = new System.Drawing.Point(12, 85);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.lblEdad.Name = "lblEdad";
             this.lblEdad.Size = new System.Drawing.Size(181, 29);
             this.lblEdad.TabIndex = 3;
@@ -68,7 +80,11 @@
             // 
             // txtEdad
             // 
+<<<<<<< HEAD
             this.txtEdad.Location = new System.Drawing.Point(17, 120);
+=======
+            this.txtEdad.Location = new System.Drawing.Point(17, 117);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.txtEdad.Name = "txtEdad";
             this.txtEdad.Size = new System.Drawing.Size(185, 20);
             this.txtEdad.TabIndex = 12;
@@ -78,7 +94,11 @@
             this.lblPeso.AutoSize = true;
             this.lblPeso.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.lblPeso.Font = new System.Drawing.Font("Stencil", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.lblPeso.Location = new System.Drawing.Point(12, 143);
+=======
+            this.lblPeso.Location = new System.Drawing.Point(12, 140);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.lblPeso.Name = "lblPeso";
             this.lblPeso.Size = new System.Drawing.Size(137, 29);
             this.lblPeso.TabIndex = 13;
@@ -86,7 +106,11 @@
             // 
             // txtPeso
             // 
+<<<<<<< HEAD
             this.txtPeso.Location = new System.Drawing.Point(17, 175);
+=======
+            this.txtPeso.Location = new System.Drawing.Point(17, 172);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.txtPeso.Name = "txtPeso";
             this.txtPeso.Size = new System.Drawing.Size(185, 20);
             this.txtPeso.TabIndex = 14;
@@ -96,7 +120,11 @@
             this.lblTipo.AutoSize = true;
             this.lblTipo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.lblTipo.Font = new System.Drawing.Font("Stencil", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.lblTipo.Location = new System.Drawing.Point(12, 198);
+=======
+            this.lblTipo.Location = new System.Drawing.Point(12, 195);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.lblTipo.Name = "lblTipo";
             this.lblTipo.Size = new System.Drawing.Size(193, 29);
             this.lblTipo.TabIndex = 15;
@@ -109,7 +137,11 @@
             "CRIA",
             "ENGORDE",
             "FAENA"});
+<<<<<<< HEAD
             this.comTipo.Location = new System.Drawing.Point(17, 230);
+=======
+            this.comTipo.Location = new System.Drawing.Point(17, 227);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.comTipo.Name = "comTipo";
             this.comTipo.Size = new System.Drawing.Size(185, 21);
             this.comTipo.TabIndex = 16;
@@ -118,7 +150,11 @@
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.button1.Font = new System.Drawing.Font("Stencil", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.button1.Location = new System.Drawing.Point(151, 257);
+=======
+            this.button1.Location = new System.Drawing.Point(136, 254);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(168, 31);
             this.button1.TabIndex = 17;
@@ -126,6 +162,7 @@
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
+<<<<<<< HEAD
             // lblPesoFalta
             // 
             this.lblPesoFalta.BackColor = System.Drawing.Color.White;
@@ -144,11 +181,25 @@
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(233, 90);
             this.lblResultado.TabIndex = 19;
+=======
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.button3.Font = new System.Drawing.Font("Stencil", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(834, 12);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(107, 27);
+            this.button3.TabIndex = 18;
+            this.button3.Text = "volver";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             // 
             // lblDatoCurioso
             // 
             this.lblDatoCurioso.BackColor = System.Drawing.Color.White;
             this.lblDatoCurioso.Font = new System.Drawing.Font("Stencil", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.lblDatoCurioso.Location = new System.Drawing.Point(588, 88);
             this.lblDatoCurioso.Name = "lblDatoCurioso";
             this.lblDatoCurioso.Size = new System.Drawing.Size(272, 98);
@@ -167,28 +218,73 @@
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
+=======
+            this.lblDatoCurioso.Location = new System.Drawing.Point(588, 85);
+            this.lblDatoCurioso.Name = "lblDatoCurioso";
+            this.lblDatoCurioso.Size = new System.Drawing.Size(272, 98);
+            this.lblDatoCurioso.TabIndex = 19;
+            this.lblDatoCurioso.Text = "                 ¡Dato curioso!";
+            // 
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
             this.button2.Font = new System.Drawing.Font("Stencil", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(758, 474);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(171, 27);
             this.button2.TabIndex = 22;
+=======
+            this.button2.Location = new System.Drawing.Point(770, 487);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(171, 27);
+            this.button2.TabIndex = 20;
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.button2.Text = "comercialización";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
+<<<<<<< HEAD
+=======
+            // lblPesoFalta
+            // 
+            this.lblPesoFalta.BackColor = System.Drawing.Color.White;
+            this.lblPesoFalta.Font = new System.Drawing.Font("Stencil", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPesoFalta.ForeColor = System.Drawing.Color.Coral;
+            this.lblPesoFalta.Location = new System.Drawing.Point(219, 325);
+            this.lblPesoFalta.Name = "lblPesoFalta";
+            this.lblPesoFalta.Size = new System.Drawing.Size(234, 40);
+            this.lblPesoFalta.TabIndex = 21;
+            // 
+            // lblResultado
+            // 
+            this.lblResultado.BackColor = System.Drawing.Color.White;
+            this.lblResultado.Font = new System.Drawing.Font("Stencil", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.Location = new System.Drawing.Point(220, 380);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(233, 90);
+            this.lblResultado.TabIndex = 22;
+            // 
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             // FrmProdu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(953, 526);
+<<<<<<< HEAD
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.lblDatoCurioso);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.lblPesoFalta);
+=======
+            this.Controls.Add(this.lblResultado);
+            this.Controls.Add(this.lblPesoFalta);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.lblDatoCurioso);
+            this.Controls.Add(this.button3);
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comTipo);
             this.Controls.Add(this.lblTipo);
@@ -198,8 +294,13 @@
             this.Controls.Add(this.lblEdad);
             this.Controls.Add(this.pictureBox1);
             this.Name = "FrmProdu";
+<<<<<<< HEAD
             this.Text = "FrmProdu";
             this.Load += new System.EventHandler(this.FrmProdu_Load);
+=======
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "FrmProdu";
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -216,10 +317,18 @@
         private System.Windows.Forms.Label lblTipo;
         private System.Windows.Forms.ComboBox comTipo;
         private System.Windows.Forms.Button button1;
+<<<<<<< HEAD
         private System.Windows.Forms.Label lblPesoFalta;
         private System.Windows.Forms.Label lblResultado;
         private System.Windows.Forms.Label lblDatoCurioso;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
+=======
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label lblDatoCurioso;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label lblPesoFalta;
+        private System.Windows.Forms.Label lblResultado;
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
     }
 }

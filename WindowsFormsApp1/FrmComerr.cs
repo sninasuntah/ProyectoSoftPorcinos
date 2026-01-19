@@ -24,6 +24,18 @@ namespace WindowsFormsApp1
             lblMotivo.Text = "MOTIVO: ";
             lblTotal.Text = "Total de venta: $0.00";
         }
+<<<<<<< HEAD
+=======
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmComerr_Load_1(object sender, EventArgs e)
+        {
+
+        }
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
 
         private void button2_Click_1(object sender, EventArgs e)
         {
