@@ -33,10 +33,8 @@
             this.btnAlimentación = new System.Windows.Forms.Button();
             this.btnPeso = new System.Windows.Forms.Button();
             this.lblEscoja = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnVolverPrincipal = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -93,16 +91,6 @@
             this.lblEscoja.TabIndex = 4;
             this.lblEscoja.Text = "Escoja una funcionalidad:";
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Interfaz_Principal__Ninasunta_;
-            this.pictureBox1.Location = new System.Drawing.Point(-3, -1);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(925, 501);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 5;
-            this.pictureBox1.TabStop = false;
-            // 
             // btnVolverPrincipal
             // 
             this.btnVolverPrincipal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
@@ -114,24 +102,15 @@
             this.btnVolverPrincipal.UseVisualStyleBackColor = false;
             this.btnVolverPrincipal.Click += new System.EventHandler(this.btnVolverPrincipal_Click);
             // 
-            // button1
+            // pictureBox1
             // 
-            this.button1.Location = new System.Drawing.Point(361, 75);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(127, 65);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(450, 124);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 8;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.pictureBox1.Image = global::WindowsFormsApp1.Properties.Resources.Interfaz_Principal__Ninasunta_;
+            this.pictureBox1.Location = new System.Drawing.Point(-3, -1);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(925, 501);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 5;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
@@ -139,8 +118,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.PeachPuff;
             this.ClientSize = new System.Drawing.Size(922, 498);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnVolverPrincipal);
             this.Controls.Add(this.btnPeso);
             this.Controls.Add(this.btnAlimentación);
@@ -168,8 +145,6 @@
         private System.Windows.Forms.Label lblEscoja;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnVolverPrincipal;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
     }
 }
 
