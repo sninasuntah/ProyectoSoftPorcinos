@@ -1,5 +1,4 @@
 ﻿using ControlPorcino;
-using picks;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
