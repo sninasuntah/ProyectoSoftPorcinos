@@ -24,12 +24,5 @@ namespace WindowsFormsApp1
             f.Show();
             this.Hide();
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            FrmProd prod = new FrmProd();
-            prod.Show(); 
-            this.Hide();
-        }
     }
 }
