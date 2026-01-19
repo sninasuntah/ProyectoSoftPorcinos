@@ -36,6 +36,8 @@ namespace picks
             lblPesoFalta.Text = "";
             lblDatoCurioso.Text = "🧠 Dato curioso del cerdo";
         }
+=======
+>>>>>>> a249241 (Arreglo de boton ir produ, finalizacion de frmProdu y frmComerr)
         private void ProcesarCerdos(int edadActual, double pesoActual, int edadMin, double pesoMin, string titulo, string concepto)
         {
             if (edadActual >= edadMin && pesoActual >= pesoMin)
@@ -111,6 +113,7 @@ namespace picks
             lblDatoCurioso.Text = datosCuriosos[r.Next(datosCuriosos.Length)];
         }
 
+<<<<<<< HEAD
         private void button2_Click_1(object sender, EventArgs e)
         {
             FrmCom f2 = new FrmCom();
