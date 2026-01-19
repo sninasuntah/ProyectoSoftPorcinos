@@ -249,7 +249,6 @@
         private System.Windows.Forms.TextBox txtEdad;
         private System.Windows.Forms.Label lblPeso;
         private System.Windows.Forms.TextBox txtPeso;
-<<<<<<< HEAD
         private System.Windows.Forms.Label lblDestino;
         private System.Windows.Forms.Label lblPrecio;
         private System.Windows.Forms.Label lblTotal;
