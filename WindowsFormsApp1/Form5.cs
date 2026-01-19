@@ -1,4 +1,5 @@
 ﻿using ControlPorcino;
+using picks;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,6 +22,13 @@ namespace WindowsFormsApp1
         private void btnIrCrianza_Click(object sender, EventArgs e)
         {
             Form1 f = new Form1();
+            f.Show();
+            this.Hide();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmProd f = new FrmProd();
             f.Show();
             this.Hide();
         }
