@@ -53,7 +53,7 @@ namespace ControlPorcino
         private void button1_Click(object sender, EventArgs e)
         {
            
-            FrmProdu ventanaProduccion = new FrmProdu();
+            FrmProd ventanaProduccion = new FrmProd();
             ventanaProduccion.Show();
             this.Hide();
         }
