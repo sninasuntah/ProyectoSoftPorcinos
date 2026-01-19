@@ -14,7 +14,6 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnIrCrianza = new System.Windows.Forms.Button();
             this.btnIrProduccion = new System.Windows.Forms.Button();
-
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -30,7 +29,7 @@
             // 
             // btnIrCrianza
             // 
-            this.btnIrCrianza.BackColor = System.Drawing.Color.FromArgb(255, 192, 255);
+            this.btnIrCrianza.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.btnIrCrianza.Location = new System.Drawing.Point(290, 163);
             this.btnIrCrianza.Name = "btnIrCrianza";
             this.btnIrCrianza.Size = new System.Drawing.Size(49, 49);
@@ -40,8 +39,8 @@
             // 
             // btnIrProduccion
             // 
-            this.btnIrProduccion.BackColor = System.Drawing.Color.FromArgb(255, 192, 255);
-            this.btnIrProduccion.Location = new System.Drawing.Point(290, 321);
+            this.btnIrProduccion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.btnIrProduccion.Location = new System.Drawing.Point(290, 327);
             this.btnIrProduccion.Name = "btnIrProduccion";
             this.btnIrProduccion.Size = new System.Drawing.Size(49, 49);
             this.btnIrProduccion.TabIndex = 2;
@@ -58,10 +57,9 @@
             this.Controls.Add(this.pictureBox1);
             this.Name = "Form5";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
+
         }
 
         #endregion
