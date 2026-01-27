@@ -14,7 +14,7 @@ namespace ControlPorcino
             Application.SetCompatibleTextRenderingDefault(false);
 
             // Form principal al iniciar la aplicación
-            Application.Run(new Form5());
+            Application.Run(new PantallaPrincipal());
         }
     }
 }

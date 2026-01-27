@@ -118,76 +118,118 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="img1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\descarga.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pantalla Principal (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pantalla Principal (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chanchi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chanchi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="botonrosa (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\botonrosa (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pantalla Principal (Ninasunta)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pantalla Principal (Ninasunta)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pantalla Principal (Ninasunta) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pantalla Principal (Ninasunta) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chanchosaltando" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chanchosaltando.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="granja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\granja.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="n" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="n1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\n1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Interfaz Principal (Ninasunta) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Interfaz Principal (Ninasunta) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="h" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\h.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="chanchoooo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\chanchoooo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ho" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ho.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Interfaz Principal (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Interfaz Principal (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="minichanchos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\minichanchos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="fondogranja" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fondogranja.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="chancho" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\chancho.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="granja" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\granja.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="chanchi" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\chanchi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Control de Alimentación (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Control de Alimentación (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ch" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ch.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Control de Peso (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Control de Peso (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Control Crianza (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Control Crianza (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="o" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\o.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="h" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\h.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cer_volteado" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cer_volteado.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="chanchokawai" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\chanchokawai.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="chanchosaltando" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\chanchosaltando.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="chancho" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chancho.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="n1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\n1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Control de Alimentación (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Control de Alimentación (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="c" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\c.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Interfaz Principal (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Interfaz Principal (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="a" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="botonrosa (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\botonrosa (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="chanchomojado" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\chanchomojado.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Pantalla Principal (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Pantalla Principal (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="minichanchos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minichanchos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\c.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ch.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chan_leyendo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Interfaz Principal (Ninasunta) (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Interfaz Principal (Ninasunta) (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Control de Peso (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Control de Peso (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (3).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\o.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\imageeeeen.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fondogranja" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fondogranja.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Control Crianza (Ninasunta)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Control Crianza (Ninasunta).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Interfaz Principal (Ninasunta) (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Interfaz Principal (Ninasunta) (3).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
