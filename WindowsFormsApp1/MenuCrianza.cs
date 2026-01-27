@@ -28,17 +28,7 @@ namespace ControlPorcino
             this.Hide();
         }
 
-        private void btnPeso_Click(object sender, EventArgs e)
-        {
-            JuegoMemorama f = new JuegoMemorama();
-            f.Show();
-            this.Hide();
-        }
 
-        private void pictureBox2_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void btnVolverPrincipal_Click(object sender, EventArgs e)
         {
@@ -47,11 +37,18 @@ namespace ControlPorcino
             this.Hide();
         }
 
+        //se accede al juego de memoria mediante el click en la imagen (icono flecha rosa)
         private void pictureBox2_Click_1(object sender, EventArgs e)
         {
             JuegoMemorama f = new JuegoMemorama();
             f.Show();
             this.Hide();
+        }
+
+        private void btnPeso_Click(object sender, EventArgs e)
+        {
+            // Aquí puedes agregar la lógica que desees ejecutar al hacer clic en el botón "btnPeso"
+            MessageBox.Show("Funcionalidad de peso aún no implementada.");
         }
     }
 }

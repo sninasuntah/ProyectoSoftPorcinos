@@ -32,5 +32,20 @@ namespace WindowsFormsApp1
             f.Show();
             this.Hide();
         }
+
+        private void btnIrVacunacion_Click(object sender, EventArgs e)
+        {
+            MenuEnfermedados me = new MenuEnfermedades
+            me.Show();
+            this.Hide();
+
+        }
+
+        private void btnIrGastronomia_Click(object sender, EventArgs e)
+        {
+            Frmgastronomia fg = new Frmgastronomia();
+            fg.Show();
+            this.Hide();
+        }
     }
 }

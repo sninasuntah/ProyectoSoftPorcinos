@@ -31,8 +31,8 @@
             this.btnIrCrianza = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnIrProduccion = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnIrVacunacion = new System.Windows.Forms.Button();
+            this.btnIrGastronomia = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -70,35 +70,37 @@
             this.btnIrProduccion.UseVisualStyleBackColor = false;
             this.btnIrProduccion.Click += new System.EventHandler(this.btnIrProduccion_Click);
             // 
-            // button1
+            // btnIrVacunacion
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.button1.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Bold);
-            this.button1.Location = new System.Drawing.Point(282, 244);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(57, 55);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "->";
-            this.button1.UseVisualStyleBackColor = false;
+            this.btnIrVacunacion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.btnIrVacunacion.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Bold);
+            this.btnIrVacunacion.Location = new System.Drawing.Point(282, 244);
+            this.btnIrVacunacion.Name = "btnIrVacunacion";
+            this.btnIrVacunacion.Size = new System.Drawing.Size(57, 55);
+            this.btnIrVacunacion.TabIndex = 3;
+            this.btnIrVacunacion.Text = "->";
+            this.btnIrVacunacion.UseVisualStyleBackColor = false;
+            this.btnIrVacunacion.Click += new System.EventHandler(this.btnIrVacunacion_Click);
             // 
-            // button2
+            // btnIrGastronomia
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.button2.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Bold);
-            this.button2.Location = new System.Drawing.Point(282, 388);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(57, 55);
-            this.button2.TabIndex = 4;
-            this.button2.Text = "->";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnIrGastronomia.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.btnIrGastronomia.Font = new System.Drawing.Font("Berlin Sans FB", 21.75F, System.Drawing.FontStyle.Bold);
+            this.btnIrGastronomia.Location = new System.Drawing.Point(282, 388);
+            this.btnIrGastronomia.Name = "btnIrGastronomia";
+            this.btnIrGastronomia.Size = new System.Drawing.Size(57, 55);
+            this.btnIrGastronomia.TabIndex = 4;
+            this.btnIrGastronomia.Text = "->";
+            this.btnIrGastronomia.UseVisualStyleBackColor = false;
+            this.btnIrGastronomia.Click += new System.EventHandler(this.btnIrGastronomia_Click);
             // 
             // PantallaPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(921, 489);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnIrGastronomia);
+            this.Controls.Add(this.btnIrVacunacion);
             this.Controls.Add(this.btnIrProduccion);
             this.Controls.Add(this.btnIrCrianza);
             this.Controls.Add(this.pictureBox1);
@@ -115,7 +117,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnIrCrianza;
         private System.Windows.Forms.Button btnIrProduccion;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnIrVacunacion;
+        private System.Windows.Forms.Button btnIrGastronomia;
     }
 }

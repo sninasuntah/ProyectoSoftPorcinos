@@ -97,10 +97,5 @@ namespace ControlPorcino
         {
             tabla.WriteXml(ruta);
         }
-
-        private void txtIDCrianza_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

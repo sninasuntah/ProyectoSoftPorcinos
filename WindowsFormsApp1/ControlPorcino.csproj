@@ -207,6 +207,18 @@
     <Compile Include="PantallaPrincipal.Designer.cs">
       <DependentUpon>PantallaPrincipal.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmCom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCom.Designer.cs">
+      <DependentUpon>FrmCom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProd.Designer.cs">
+      <DependentUpon>FrmProd.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="JuegoMemorama.resx">
@@ -226,6 +238,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="PantallaPrincipal.resx">
       <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCom.resx">
+      <DependentUpon>FrmCom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProd.resx">
+      <DependentUpon>FrmProd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -325,6 +343,7 @@
     <None Include="Resources\Pantalla Principal %28Ninasunta%29.png" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="Resources\Pantalla Principal %28Ninasunta%291.png" />
   </ItemGroup>
   <ItemGroup>
@@ -344,6 +363,9 @@
       <Project>{A1A97958-8725-4315-B352-74237D22548A}</Project>
       <Name>picks</Name>
     </ProjectReference>
+=======
+    <Folder Include="NewFolder1\" />
+>>>>>>> 4f2cac6e7085f7fc358479f244c80ed3d0913180
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Data.SqlClient.SNI.6.0.2\build\net462\Microsoft.Data.SqlClient.SNI.targets" Condition="Exists('..\packages\Microsoft.Data.SqlClient.SNI.6.0.2\build\net462\Microsoft.Data.SqlClient.SNI.targets')" />
