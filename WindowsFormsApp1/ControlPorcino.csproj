@@ -343,29 +343,6 @@
     <None Include="Resources\Pantalla Principal %28Ninasunta%29.png" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <None Include="Resources\Pantalla Principal %28Ninasunta%291.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Interfaz Principal %28Ninasunta%29 %281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Pantalla Principal %28Ninasunta%29 %281%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Interfaz Principal %28Ninasunta%29 %282%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Interfaz Principal %28Ninasunta%29 %283%29.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Downloads\FINAL\picks.csproj">
-      <Project>{A1A97958-8725-4315-B352-74237D22548A}</Project>
-      <Name>picks</Name>
-    </ProjectReference>
-=======
-    <Folder Include="NewFolder1\" />
->>>>>>> 4f2cac6e7085f7fc358479f244c80ed3d0913180
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\Microsoft.Data.SqlClient.SNI.6.0.2\build\net462\Microsoft.Data.SqlClient.SNI.targets" Condition="Exists('..\packages\Microsoft.Data.SqlClient.SNI.6.0.2\build\net462\Microsoft.Data.SqlClient.SNI.targets')" />
