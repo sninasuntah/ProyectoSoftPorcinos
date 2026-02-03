@@ -1,5 +1,7 @@
 ﻿using ControlPorcino;
 using picks;
+using Control_de_enfermedades_y_vacunacion;
+using GASTRONOMIA;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -35,8 +37,8 @@ namespace WindowsFormsApp1
 
         private void btnIrVacunacion_Click(object sender, EventArgs e)
         {
-            MenuEnfermedados me = new MenuEnfermedades
-            me.Show();
+            FrmMenu fm = new FrmMenu();
+            fm.Show();
             this.Hide();
 
         }

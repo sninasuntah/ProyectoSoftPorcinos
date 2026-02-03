@@ -1,4 +1,7 @@
 <Solution>
-  <Project Path="../../../Downloads/FINAL/picks.csproj" Id="a1a97958-8725-4315-b352-74237d22548a" />
+  <Project Path="../../../Downloads/333/333.csproj" Id="e59a8e01-ea08-42ad-b6f1-574481a53bb0" />
+  <Project Path="../../../Downloads/Control de enfermedades y vacunacion/ControlDeEnfermedadesYVacunacion.csproj" Id="dc7e6d1e-6fb8-42c2-9dbe-62daf0e1a745" />
+  <Project Path="../../../Downloads/faz (2)/faz/faz/picks.csproj" Id="a1a97958-8725-4315-b352-74237d22548a" />
+  <Project Path="../../../Downloads/proyecto/GASTRONOMIA/GASTRONOMIA/GASTRONOMIA.csproj" Id="7d910f80-ac5b-4ab7-bfce-4be536eb0cd2" />
   <Project Path="WindowsFormsApp1/ControlPorcino.csproj" Id="67e6f678-e1b4-477e-95c5-7b0a1c861d64" />
 </Solution>
